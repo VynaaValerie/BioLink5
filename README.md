@@ -16,5 +16,5 @@ A stylish and elegant biolink page for Zaynn, designed to provide a premium and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zaynn-biolink.git
-   cd zaynn-biolink
+   git clone https://github.com/VynaaValerie/BioLink5.git
+   cd BioLink5
